@@ -1,5 +1,5 @@
-<h1 align="center">Hi, This is Jakaria Nur</h1>
-<h3 align="center">Entrepreneur & Software Engineer</h3>
+<h1 align="center">Hi, This is Md Jakaria Nur</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjakarianur&label=Profile%20views&color=0e75b6&style=flat" alt="mdjakarianur" /> </p>
 
